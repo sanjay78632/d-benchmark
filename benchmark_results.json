@@ -1,0 +1,52 @@
+{
+  "results": [
+    {
+      "command": "/home/sanjay/d_benchmark/dmd/generated/linux/release/64/dmd -i=std -c /home/sanjay/d_benchmark/phobos/std/package.d",
+      "mean": 3.4936900552399996,
+      "stddev": 0.00501028124804083,
+      "median": 3.49302689144,
+      "user": 3.0244898000000005,
+      "system": 0.46488892000000004,
+      "min": 3.4869068794399998,
+      "max": 3.50083605644,
+      "times": [
+        3.49264649544,
+        3.49302689144,
+        3.49503395344,
+        3.50083605644,
+        3.4869068794399998
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "/home/sanjay/d_benchmark/dmd/generated/linux/release/64/dmd -i=std -c /home/sanjay/d_benchmark/phobos/std/package.d",
+      "mean": 3.50192491404,
+      "stddev": 0.015082664946915923,
+      "median": 3.50600860544,
+      "user": 3.0174423999999993,
+      "system": 0.47821891999999994,
+      "min": 3.47930226044,
+      "max": 3.51482905144,
+      "times": [
+        3.51471964444,
+        3.49476500844,
+        3.47930226044,
+        3.50600860544,
+        3.51482905144
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}
